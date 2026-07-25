@@ -1,0 +1,11 @@
+import numpy as np
+a=np.array([10,20,30])
+b=np.mean(a)
+c=np.median(a)
+d=np.std(a)
+e=np.var(a)
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
